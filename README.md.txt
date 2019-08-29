@@ -1,0 +1,1 @@
+[![asteroids_gif](http://www.picshare.ru/uploads/190829/7FDKy1IFK1.gif)]
